@@ -1,0 +1,57 @@
+[
+        {
+            "id":"1",
+            "firstimg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt1c47d7a3ca354ca4/6718c2a82fb0457323aea222/-Bnet_Game-Banner_Desktop-EN-1600x500_(4)_(1).jpg?imwidth=1568&imdensity=1.25",
+            "alt1":"alt1",
+            "secondimg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltd1ac24e6e9aeed6a/664bfd8842baa47dde6ae978/-Bnet_Game-Logo-1000pxWide_(1).png?imwidth=320&imdensity=1.25",
+            "alt2":"alt1",
+            "h2":"Available Now",
+            "clickme":"Buy Now"
+        },
+        {
+            "id":"2",
+            "firstimg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt583904ed7f1bbc81/672002575b3e2d5e1ee5faac/HS_30p6_MegaBundle_PP_BattleNet_HomepageHeader_Desktop_1600x500_SP03.jpg?imwidth=1568&imdensity=1.25",
+            "alt1":"alt2",
+            "secondimg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltca3fe2625ea884c3/66fed7f5db93ff6d48c46568/HS_31p0_TGDB_Logo_Launch_wHS_550x342_enUS.png?imwidth=320&imdensity=1.25",
+            "alt2" :"alt2",
+            "h2":"Last chance: Pre-purchase the Great Dark Beyond Mega Bundle today!",
+            "clickme":" Pre-purchase Now "
+
+        },
+        {
+            "id":"3",
+            "firstimg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8e3dc516f0001334/671984104cf9743b4aea6a02/WoW_Warcraft30th_MountBundle_BnetShop_HeaderDesktop_1600x500_(1).png?imwidth=1568&imdensity=1.25",
+            "alt1":"alt3",
+            "secondimg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt82be8ac378f2f562/671190e6d265fa934e8a5d85/Warcraft_30Anniversary_Logo_B05.png?imwidth=320&imdensity=1.25",
+            "alt2":"alt3",
+            "h2":"The Warcraft Anniversary Collection is here with limited-time mounts, deals, and more!",
+            "clickme":"Shop Now"
+        },
+        {
+            "id":"4",
+            "firstimg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt804b899e5f53a898/670ef5ccd265fa24d38a5d2b/OW2_2024_S13_MHA_BNET_BNET_Textless-Desktop-Carousel_1600x500.png?imwidth=1568&imdensity=1.25",
+            "alt1":"alt4",
+            "secondimg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltbbb52b59e85baad5/670ef6e1214586f513818ddd/OW2_MHA_Collab_Logo_DarkBG.png?imwidth=320&imdensity=1.25",
+            "alt2":"alt4",
+            "h2":"Last chance: Get the Overwatch 2 x My Hero Academia Mega Bundle",
+            "clickme":"Buy Now"
+        },
+        {
+            "id":"5",
+            "firstimg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb2fc250600dc0a90/672011474210e820f619bdd4/Desktop-1600x500_(1).png?imwidth=1568&imdensity=1.25",
+            "alt1":"alt5",
+            "secondimg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt4d2067b7b66cd825/66656a7823ebd0351162d6ad/en_Shop_Franchise_Logo_1920x1920.png?imwidth=320&imdensity=1.25",
+            "alt2":"alt5",
+            "h2":"New Expansion Available Now",
+            "clickme":" Purchase & Play Now"
+        },
+        {
+            "id":"6",
+            "firstimg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltc713caf08c25791b/66be84a4e72fee8b44083c79/WOW_11.0_TWW_LaunchBanners-Destruction_Battlenet_Desktop-1600x500_JL01.png?imwidth=1568&imdensity=1.25",
+            "alt1":"alt6",
+            "secondimg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb331badf78ac9cde/6549867dd2e4eb8b8d1efcf6/WoW_11p0_Logo_enUS_(1).png?imwidth=320&imdensity=1.25",
+            "alt2":"alt6",
+            "h2":"Get Back In The Fight! The War Within Is Now Live",
+            "clickme":"Buy Now"
+        }
+    ]

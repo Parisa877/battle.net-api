@@ -1,0 +1,122 @@
+[
+    {
+        "id":"1",
+        "mainImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8251b00af5c9b40a/66bfcb5b7e3fe282ad56f73c/WOW_11.0_TWW_LaunchBanners-Destruction_Launcher_FranchisePhoenix_1920x1080_JL01b.png?imwidth=332&imdensity=1.25",
+        "alt1":"alt1",
+        "svgImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb7c1db49cad77069/60a81b45b078b00d8a909fce/world-of-warcraft.svg",
+        "alt2":"alt1",
+        "title":"World of Warcraft",
+        "mainTitle":"World of Warcraft®: The War Within™",
+        "info":"Now live! Get a Level 70 Boost included in all editions and get back in the fight.",
+        "details":"Massively Multiplayer RPG",
+        "price":"From €49.99"
+    },
+    {
+        "id":"2",
+        "mainImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt6de29b9f5831600b/66568f92b468e237b6be828e/DIA_DIV_X1_BNET_PRE_PURCHASE_static_browsing_card_combo_1920x1080.png?imwidth=332&imdensity=1.25",
+        "alt1":"alt2",
+        "svgImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt75adef01b186cab3/63dc132f6ce8bf6444a8beb8/games-d4-colored.svg",
+        "alt2":"alt2",
+        "title":"Diablo IV",
+        "mainTitle":"Diablo® IV Expansion Bundle",
+        "info":"Vessel of Hatred Available Now!",
+        "details":"Action RPG",
+        "price":"€69.99"
+    },
+    {
+        "id":"3",
+        "mainImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltdfd26d2c32d19428/6657ade2a18b1660eed4ca63/-Bnet_Game-Card_Product_browsing-EN-960x540_(6).jpg?imwidth=332&imdensity=1.25",
+        "alt1":"alt3",
+        "svgImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt38fbd5bc534f9d8d/666b3646e3720f794c00428c/-Bnet_Game-Shop_Icon-EN-1080x1080.svg",
+        "alt2":"alt3",
+        "title":"Call of Duty Black Ops 6",
+        "mainTitle":"Call of Duty®: Black Ops 6 - Vault Edition",
+        "info":"Available Now ",
+        "details":"Action Shooter",
+        "price":"€109.99"
+    },
+    {
+        "id":"4",
+        "mainImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt6acbd0ce24d204d7/67047482beea3d0a8f713e91/OW2_2024_S13-Launch_BNET_SA01_BNET-shopproductasset_1920x1080.png?imwidth=332&imdensity=1.25",
+        "alt1":"alt4",
+        "svgImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt7e22237aad327854/63db19a1592f74643d1a389a/Overwatch2_(1).svg",
+        "alt2":"alt4",
+        "title":"Overwatch 2",
+        "mainTitle":"Overwatch® 2",
+        "info":" ",
+        "details":"Team-Based Action Game",
+        "price":"Play For Free"
+    },
+    {
+        "id":"5",
+        "mainImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltebf9496ec8ca4c39/6699863901ccab6a4592a799/HS_28p6_PP_Mega_Phoenix_Franchise_ArtOnly_1920x1080_RN02.png?imwidth=332&imdensity=1.25",
+        "alt1":"alt5",
+        "svgImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt5538a5cdb0e16552/60db86c967d3385db9b805be/hearthstone.svg",
+        "alt2":"alt5",
+        "title":"Hearthstone",
+        "mainTitle":"Hearthstone®",
+        "info":" ",
+        "details":"Strategy Card Game",
+        "price":"Play For Free"
+    },
+    {
+        "id":"6",
+        "mainImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt825dc158da3cd435/63619505791b1444d8d1d39a/CODWZ2_S1-Bnet_Game-Product_Browsing_Card-960x540.jpg?imwidth=332&imdensity=1.25",
+        "alt1":"alt6",
+        "svgImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt294c43cf459c9461/648918994630b6246bc70c14/Warzone_WZ_White_RGB.svg",
+        "alt2":"alt6",
+        "title":"Call of Duty: Warzone",
+        "mainTitle":"Call of Duty®: Warzone",
+        "info":"Free for everyone",
+        "details":"Free-To-Play Action Shooter",
+        "price":"Play For Free"
+    },
+    {
+        "id":"7",
+        "mainImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltc4599a09e14e88c6/664bc0e6ef1b3d2b47a25d27/WOW_Cata_SKU_Update_pve_stat_enus_Product_Asset_HEROIC_1920x1080.png?imwidth=332&imdensity=1.25",
+        "alt1":"alt7",
+        "svgImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltfc0228492a2cda74/6545583cade0dc70152ca5b4/WoW_Classic_Cata(Exp).svg",
+        "alt2":"alt7",
+        "title":"World of Warcraft Cataclysm Classic",
+        "mainTitle":"Blazing Heroic Pack",
+        "info":"Upgrade to get a haul of hot new items! Cataclysm Classic is LIVE and INCLUDED with your WoW Subscription.",
+        "details":"Game Upgrades",
+        "price":"€29.99"
+    },
+    {
+        "id":"8",
+        "mainImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltd5baa2f3baef945d/621d51fc04503350d255bb74/Family_Page_Browsing_Card_Desktop_Mobile_960x540.png?imwidth=332&imdensity=1.25",
+        "alt1":"alt8",
+        "svgImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltee9e970c2fdd9c6b/621d4cb6e47e3d2eff210070/D_Immortal_Icon_Small_BlizzCon_PF08.svg",
+        "alt2":"alt8",
+        "title":"Diablo Immortal",
+        "mainTitle":"Diablo Immortal™",
+        "info":" ",
+        "details":"Games and In-game Content",
+        "price":"Play For Free"
+    },
+    {
+        "id":"9",
+        "mainImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blte567b4b53936412c/63224d89a0ff920e11e792b4/diablo_ii_resurrected-section1-feature3.png?imwidth=456&imdensity=1.25",
+        "alt1":"alt9",
+        "svgImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt9ba52a3f1100a00c/60db86c967d3385db9b805ba/diablo-ii.svg",
+        "alt2":"alt9",
+        "title":"Diablo II: Resurrected",
+        "mainTitle":"Diablo II: Resurrected™",
+        "info":"Evil is Resurrected",
+        "details":"Action RPG",
+        "price":"€39.99"
+    },
+    {
+        "id":"10",
+        "mainImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltdf04b9709e863904/615b679119501a1ef1912182/WoW_Gear_Browsing_Card.png?imwidth=572&imdensity=1.25",
+        "alt1":"alt10",
+        "svgImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltc013d62eab6b634f/60db86c9ef929764f0bb47ba/warcraft-iii.svg",
+        "alt2":"alt10",
+        "title":"Warcraft III",
+        "mainTitle":"Warcraft® III: Reforged",
+        "info":" ",
+        "details":"Real-time Strategy",
+        "price":"From €29.99"
+    }
+]
