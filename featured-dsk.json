@@ -70,5 +70,53 @@
         "info":"Available through March 18, 2025",
         "details":"Card Packs",
         "price":"€19.99"
-    }
+    },
+        {
+            "id":"7",
+            "mainImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt04a2fecf0511ab64/66f757cddca10158add70e64/Diablo_D4_S6_launch_s6_battlepass_checkout_thumbnail_bchbl_stat_enus_1920x1080_RD1_1_TS02.png?imwidth=332&imdensity=1.25",
+            "alt1":"alt7",
+            "svgImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt75adef01b186cab3/63dc132f6ce8bf6444a8beb8/games-d4-colored.svg",
+            "alt2":"alt7",
+            "title":"Diablo IV",
+            "mainTitle":"Accelerated Battle Pass - Season of Hatred Rising",
+            "info":"Get the Premium Battle pass plus 20 Tier Skips and “Creeping Hollows” emote!",
+            "details":"In-Game Content",
+            "price":"2,800 Platinum"
+        },
+        {
+            "id":"8",
+            "mainImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb0d1b87171c63a4e/6705c34f539e48622f3ca219/WoW_12Months_ShopYearofAzeroth2024_BnetShop_BrowsingCard_1920x1080.jpg?imwidth=332&imdensity=1.25",
+            "alt1":"alt8",
+            "svgImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltfc0228492a2cda74/6545583cade0dc70152ca5b4/WoW_Classic_Cata(Exp).svg",
+            "alt2":"alt8",
+            "title":"World of Warcraft Cataclysm Classic",
+            "mainTitle":"World of Warcraft®: Special Subscription Offer",
+            "info":"Includes access to World of Warcraft and Cataclysm Classic! ",
+            "details":"Subscriptions",
+            "price":"Learn More"
+        },
+        {
+            "id":"9",
+            "mainImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt825dc158da3cd435/63619505791b1444d8d1d39a/CODWZ2_S1-Bnet_Game-Product_Browsing_Card-960x540.jpg?imwidth=332&imdensity=1.25",
+            "alt1":"alt9",
+            "svgImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt294c43cf459c9461/648918994630b6246bc70c14/Warzone_WZ_White_RGB.svg",
+            "alt2":"alt9",
+            "title":"Call of Duty: Warzone",
+            "mainTitle":"Call of Duty®: Warzone",
+            "info":"Free for everyone",
+            "details":"Free-To-Play Action Shooter",
+            "price":"Play For Free"
+        },
+        {
+            "id":"10",
+            "mainImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blta17042f6f4536c84/670f0fc5d0df95806b4cc12c/WoW_Traders_BrutosaurMount_BnetShop_ProductAssetGallery_1920x1080.png?imwidth=332&imdensity=1.25",
+            "alt1":"alt10",
+            "svgImg":"https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/bltb7c1db49cad77069/60a81b45b078b00d8a909fce/world-of-warcraft.svg",
+            "alt2":"alt10",
+            "title":"World of Warcraft",
+            "mainTitle":"Trader’s Gilded Brutosaur",
+            "info":"Check your Auctions and Mail in style with the Trader’s Gilded Brutosaur!",
+            "details":"Mounts",
+            "price":"€78.00"
+        }
 ]
